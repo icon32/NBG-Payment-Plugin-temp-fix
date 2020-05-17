@@ -118,6 +118,9 @@ function translation(text) {
         if (text[i] == "ω") {
             content += "o"
         }
+        if (text[i] == "ς") {
+            content += "s"
+        }
 
         if (text[i] == " ") {
             content += " "
