@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: NBG Woocommerce Payment Temporary Fix
-Version: 1.3
+Version: 1.4
 Description: This Plugin Translates the input fields at the woocommerce checkout page from greek to english
 Author: Dionisis Mpolanis
  */

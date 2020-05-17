@@ -475,5 +475,3 @@ function translation(text) {
 
     return content
 }
-
-console.log(`sadsad`)
